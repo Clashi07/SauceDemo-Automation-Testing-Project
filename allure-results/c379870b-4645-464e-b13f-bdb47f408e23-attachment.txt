@@ -1,0 +1,7 @@
+Successfully added Sauce Labs Backpack to cart
+Successfully added Sauce Labs Bike Light to cart
+Successfully added Sauce Labs Bolt T-Shirt to cart
+Current URL before checkout click: https://www.saucedemo.com/cart.html
+Number of items in cart: 3
+Clicking checkout button...
+After checkout click, URL is: https://www.saucedemo.com/checkout-step-one.html

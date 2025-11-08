@@ -1,0 +1,27 @@
+Current URL: https://www.saucedemo.com/inventory.html
+Number of items in cart: 0
+Error during checkout: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x108fe43+66515]
+	GetHandleVerifier [0x0x108fe84+66580]
+	(No symbol) [0x0xe7dc48]
+	(No symbol) [0x0xec8704]
+	(No symbol) [0x0xec8aab]
+	(No symbol) [0x0xf0f482]
+	(No symbol) [0x0xeeb214]
+	(No symbol) [0x0xf0cba7]
+	(No symbol) [0x0xeeafc6]
+	(No symbol) [0x0xebc2ca]
+	(No symbol) [0x0xebd154]
+	GetHandleVerifier [0x0x12e7353+2521315]
+	GetHandleVerifier [0x0x12e22d3+2500707]
+	GetHandleVerifier [0x0x10b7c94+229924]
+	GetHandleVerifier [0x0x10a81f8+165768]
+	GetHandleVerifier [0x0x10aecad+193085]
+	GetHandleVerifier [0x0x1098158+100072]
+	GetHandleVerifier [0x0x10982f0+100480]
+	GetHandleVerifier [0x0x10825aa+11066]
+	BaseThreadInitThunk [0x0x763f5d49+25]
+	RtlInitializeExceptionChain [0x0x77b6d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b6d661+561]
+

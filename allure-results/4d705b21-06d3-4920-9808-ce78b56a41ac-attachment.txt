@@ -1,0 +1,4 @@
+Current URL before checkout click: https://www.saucedemo.com/cart.html
+Number of items in cart: 1
+Clicking checkout button...
+After checkout click, URL is: https://www.saucedemo.com/checkout-step-one.html
