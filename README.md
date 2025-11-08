@@ -65,7 +65,7 @@ Before running the tests, ensure you have the following installed:
 ## 📦 Installation
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Clashi07/SauceDemo-Automation-Testing-Project
 cd saucedemo-automation
 
 2. Create Virtual Environment
